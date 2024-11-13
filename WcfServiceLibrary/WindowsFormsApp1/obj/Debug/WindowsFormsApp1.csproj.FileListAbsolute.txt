@@ -1,0 +1,10 @@
+C:\Users\JanaArsic\Desktop\Projekat-ZI\WcfServiceLibrary\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\JanaArsic\Desktop\Projekat-ZI\WcfServiceLibrary\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\JanaArsic\Desktop\Projekat-ZI\WcfServiceLibrary\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\JanaArsic\Desktop\Projekat-ZI\WcfServiceLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\JanaArsic\Desktop\Projekat-ZI\WcfServiceLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\JanaArsic\Desktop\Projekat-ZI\WcfServiceLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\JanaArsic\Desktop\Projekat-ZI\WcfServiceLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\JanaArsic\Desktop\Projekat-ZI\WcfServiceLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\JanaArsic\Desktop\Projekat-ZI\WcfServiceLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\JanaArsic\Desktop\Projekat-ZI\WcfServiceLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
